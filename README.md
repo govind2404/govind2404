@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @govind2404
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Open Source
-- 
 - 📫 Reach me on Bishtgovindcr7@gmail.com
 
 <!---
